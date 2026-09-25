@@ -1,0 +1,104 @@
+it     1  L=3.469e+01  mom=3.19e+01 rheo=9.42e-02 solid=2.24e+00 melt=1.39e+01 darcy=2.67e-02 | eta=7.0e+20 phi_max=2.98e-03 |u|max=12.00 mm/yr  [0s]
+        buoyancy work (must be > 0): -1.731e-02
+it   100  L=2.089e-01  mom=1.94e-01 rheo=4.10e-03 solid=1.04e-02 melt=1.61e+00 darcy=2.41e-02 | eta=8.5e+20 phi_max=7.91e-04 |u|max=5.68 mm/yr  [15s]
+        buoyancy work (must be > 0): +7.731e-01
+it   200  L=1.322e-01  mom=1.25e-01 rheo=2.95e-03 solid=4.73e-03 melt=1.31e+00 darcy=2.92e-02 | eta=9.6e+20 phi_max=4.58e-04 |u|max=3.17 mm/yr  [30s]
+        buoyancy work (must be > 0): +3.870e-01
+it   300  L=2.113e-01  mom=1.66e-01 rheo=3.85e-03 solid=4.18e-02 melt=2.24e+00 darcy=2.04e-02 | eta=8.7e+20 phi_max=6.99e-04 |u|max=5.46 mm/yr  [45s]
+        buoyancy work (must be > 0): +7.660e-01
+it   400  L=1.221e-01  mom=1.12e-01 rheo=2.71e-03 solid=7.18e-03 melt=2.45e+00 darcy=2.26e-02 | eta=8.8e+20 phi_max=7.29e-04 |u|max=2.82 mm/yr  [60s]
+        buoyancy work (must be > 0): +8.627e-01
+it   500  L=1.020e-01  mom=9.49e-02 rheo=2.52e-03 solid=4.65e-03 melt=3.10e+00 darcy=2.18e-02 | eta=1.0e+21 phi_max=7.92e-04 |u|max=2.59 mm/yr  [75s]
+        buoyancy work (must be > 0): +8.324e-01
+it   600  L=9.612e-02  mom=8.99e-02 rheo=2.44e-03 solid=3.77e-03 melt=2.70e+00 darcy=2.28e-02 | eta=1.0e+21 phi_max=8.53e-04 |u|max=2.71 mm/yr  [90s]
+        buoyancy work (must be > 0): +8.386e-01
+it   700  L=9.110e-02  mom=7.80e-02 rheo=2.41e-03 solid=2.74e-03 melt=5.05e-02 darcy=9.07e-04 | eta=9.3e+20 phi_max=2.10e-04 |u|max=2.90 mm/yr  [105s]
+        buoyancy work (must be > 0): +8.183e-01
+it   800  L=9.220e-02  mom=7.59e-02 rheo=2.42e-03 solid=2.39e-03 melt=3.65e-02 darcy=7.58e-04 | eta=9.6e+20 phi_max=1.89e-04 |u|max=3.01 mm/yr  [120s]
+        buoyancy work (must be > 0): +7.102e-01
+it   900  L=9.521e-02  mom=7.22e-02 rheo=2.51e-03 solid=1.99e-03 melt=3.98e-02 darcy=4.41e-04 | eta=1.2e+21 phi_max=1.77e-04 |u|max=3.03 mm/yr  [135s]
+        buoyancy work (must be > 0): +7.459e-01
+it  1000  L=9.337e-02  mom=6.75e-02 rheo=2.46e-03 solid=1.89e-03 melt=3.45e-02 darcy=4.58e-04 | eta=1.1e+21 phi_max=1.80e-04 |u|max=2.97 mm/yr  [151s]
+        buoyancy work (must be > 0): +6.401e-01
+it  1100  L=9.206e-02  mom=6.18e-02 rheo=2.48e-03 solid=1.70e-03 melt=3.34e-02 darcy=4.95e-04 | eta=1.1e+21 phi_max=1.80e-04 |u|max=2.87 mm/yr  [166s]
+        buoyancy work (must be > 0): +6.445e-01
+it  1200  L=8.949e-02  mom=5.86e-02 rheo=2.47e-03 solid=1.53e-03 melt=2.87e-02 darcy=5.12e-04 | eta=1.0e+21 phi_max=1.77e-04 |u|max=2.62 mm/yr  [181s]
+        buoyancy work (must be > 0): +5.431e-01
+it  1300  L=9.887e-02  mom=6.67e-02 rheo=2.50e-03 solid=1.46e-03 melt=2.77e-02 darcy=4.43e-04 | eta=9.6e+20 phi_max=1.79e-04 |u|max=2.30 mm/yr  [196s]
+        buoyancy work (must be > 0): +4.851e-01
+it  1400  L=9.126e-02  mom=5.74e-02 rheo=2.56e-03 solid=1.35e-03 melt=2.95e-02 darcy=4.69e-04 | eta=1.1e+21 phi_max=1.78e-04 |u|max=2.11 mm/yr  [212s]
+        buoyancy work (must be > 0): +4.723e-01
+it  1500  L=9.419e-02  mom=6.16e-02 rheo=2.84e-03 solid=1.29e-03 melt=2.80e-02 darcy=4.47e-04 | eta=1.4e+21 phi_max=1.78e-04 |u|max=1.91 mm/yr  [227s]
+        buoyancy work (must be > 0): +4.930e-01
+it  1600  L=9.814e-02  mom=6.34e-02 rheo=3.01e-03 solid=1.21e-03 melt=3.00e-02 darcy=5.25e-04 | eta=1.2e+21 phi_max=1.78e-04 |u|max=1.72 mm/yr  [242s]
+        buoyancy work (must be > 0): +3.738e-01
+it  1700  L=8.777e-02  mom=5.48e-02 rheo=3.43e-03 solid=1.10e-03 melt=2.80e-02 darcy=4.47e-04 | eta=1.5e+21 phi_max=1.80e-04 |u|max=1.40 mm/yr  [257s]
+        buoyancy work (must be > 0): +3.668e-01
+it  1800  L=8.067e-02  mom=5.23e-02 rheo=2.79e-03 solid=9.73e-04 melt=2.41e-02 darcy=5.03e-04 | eta=1.2e+21 phi_max=1.73e-04 |u|max=1.28 mm/yr  [272s]
+        buoyancy work (must be > 0): +4.108e-01
+it  1900  L=8.416e-02  mom=5.43e-02 rheo=2.63e-03 solid=8.91e-04 melt=2.59e-02 darcy=4.28e-04 | eta=1.4e+21 phi_max=1.77e-04 |u|max=1.19 mm/yr  [287s]
+        buoyancy work (must be > 0): +3.612e-01
+it  2000  L=8.749e-02  mom=5.46e-02 rheo=2.86e-03 solid=8.94e-04 melt=2.87e-02 darcy=4.23e-04 | eta=1.4e+21 phi_max=1.76e-04 |u|max=1.08 mm/yr  [303s]
+        buoyancy work (must be > 0): +3.530e-01
+it  2100  L=1.940e+00  mom=1.91e-01 rheo=3.79e-02 solid=1.62e+00 melt=9.21e-02 darcy=1.12e-03 | eta=4.7e+20 phi_max=1.78e-04 |u|max=19.05 mm/yr  [319s]
+        buoyancy work (must be > 0): +9.123e-01
+it  2200  L=9.943e-02  mom=6.29e-02 rheo=2.38e-03 solid=5.10e-03 melt=2.86e-02 darcy=4.69e-04 | eta=1.1e+21 phi_max=1.79e-04 |u|max=3.17 mm/yr  [334s]
+        buoyancy work (must be > 0): +7.572e-01
+it  2300  L=9.131e-02  mom=6.01e-02 rheo=2.34e-03 solid=2.76e-03 melt=2.56e-02 darcy=4.48e-04 | eta=1.2e+21 phi_max=1.79e-04 |u|max=2.40 mm/yr  [349s]
+        buoyancy work (must be > 0): +8.224e-01
+it  2400  L=7.557e-02  mom=4.82e-02 rheo=2.28e-03 solid=1.87e-03 melt=2.28e-02 darcy=4.70e-04 | eta=1.4e+21 phi_max=1.80e-04 |u|max=2.18 mm/yr  [365s]
+        buoyancy work (must be > 0): +8.154e-01
+it  2500  L=8.598e-02  mom=5.41e-02 rheo=2.23e-03 solid=1.48e-03 melt=2.77e-02 darcy=4.36e-04 | eta=1.4e+21 phi_max=1.78e-04 |u|max=1.91 mm/yr  [380s]
+        buoyancy work (must be > 0): +8.340e-01
+it  2600  L=7.958e-02  mom=5.08e-02 rheo=2.16e-03 solid=1.25e-03 melt=2.50e-02 darcy=4.23e-04 | eta=1.5e+21 phi_max=1.77e-04 |u|max=1.78 mm/yr  [395s]
+        buoyancy work (must be > 0): +8.252e-01
+it  2700  L=8.034e-02  mom=5.24e-02 rheo=2.08e-03 solid=1.08e-03 melt=2.43e-02 darcy=4.14e-04 | eta=1.7e+21 phi_max=1.77e-04 |u|max=1.56 mm/yr  [410s]
+        buoyancy work (must be > 0): +7.702e-01
+it  2800  L=7.761e-02  mom=4.84e-02 rheo=2.07e-03 solid=1.00e-03 melt=2.57e-02 darcy=4.33e-04 | eta=1.7e+21 phi_max=1.75e-04 |u|max=1.58 mm/yr  [424s]
+        buoyancy work (must be > 0): +7.759e-01
+it  2900  L=7.325e-02  mom=4.70e-02 rheo=2.09e-03 solid=9.12e-04 melt=2.28e-02 darcy=4.10e-04 | eta=1.8e+21 phi_max=1.78e-04 |u|max=1.45 mm/yr  [440s]
+        buoyancy work (must be > 0): +8.074e-01
+it  3000  L=7.126e-02  mom=4.69e-02 rheo=2.07e-03 solid=8.70e-04 melt=2.10e-02 darcy=4.07e-04 | eta=1.7e+21 phi_max=1.80e-04 |u|max=1.49 mm/yr  [455s]
+        buoyancy work (must be > 0): +8.060e-01
+it  3100  L=7.677e-02  mom=4.55e-02 rheo=2.05e-03 solid=7.86e-04 melt=2.80e-02 darcy=4.92e-04 | eta=1.3e+21 phi_max=1.79e-04 |u|max=1.42 mm/yr  [470s]
+        buoyancy work (must be > 0): +8.218e-01
+it  3200  L=7.305e-02  mom=4.56e-02 rheo=2.06e-03 solid=6.64e-04 melt=2.43e-02 darcy=4.48e-04 | eta=1.8e+21 phi_max=1.79e-04 |u|max=1.35 mm/yr  [485s]
+        buoyancy work (must be > 0): +8.073e-01
+it  3300  L=7.217e-02  mom=4.37e-02 rheo=2.02e-03 solid=7.82e-04 melt=2.53e-02 darcy=4.39e-04 | eta=1.5e+21 phi_max=1.76e-04 |u|max=1.32 mm/yr  [500s]
+        buoyancy work (must be > 0): +7.847e-01
+it  3400  L=6.941e-02  mom=4.50e-02 rheo=2.00e-03 solid=6.47e-04 melt=2.13e-02 darcy=4.58e-04 | eta=1.6e+21 phi_max=1.76e-04 |u|max=1.21 mm/yr  [515s]
+        buoyancy work (must be > 0): +8.362e-01
+it  3500  L=6.639e-02  mom=4.16e-02 rheo=2.18e-03 solid=6.43e-04 melt=2.15e-02 darcy=4.08e-04 | eta=1.9e+21 phi_max=1.75e-04 |u|max=1.30 mm/yr  [530s]
+        buoyancy work (must be > 0): +8.138e-01
+it  3600  L=6.900e-02  mom=4.18e-02 rheo=2.01e-03 solid=6.53e-04 melt=2.40e-02 darcy=4.45e-04 | eta=1.4e+21 phi_max=1.78e-04 |u|max=1.23 mm/yr  [545s]
+        buoyancy work (must be > 0): +8.488e-01
+it  3700  L=6.841e-02  mom=4.20e-02 rheo=1.97e-03 solid=6.01e-04 melt=2.34e-02 darcy=4.43e-04 | eta=1.3e+21 phi_max=1.78e-04 |u|max=1.26 mm/yr  [560s]
+        buoyancy work (must be > 0): +8.333e-01
+it  3800  L=7.270e-02  mom=4.22e-02 rheo=1.97e-03 solid=5.97e-04 melt=2.75e-02 darcy=4.10e-04 | eta=1.8e+21 phi_max=1.72e-04 |u|max=1.23 mm/yr  [575s]
+        buoyancy work (must be > 0): +7.950e-01
+it  3900  L=6.519e-02  mom=3.98e-02 rheo=2.01e-03 solid=6.20e-04 melt=2.23e-02 darcy=4.56e-04 | eta=1.4e+21 phi_max=1.73e-04 |u|max=1.17 mm/yr  [590s]
+        buoyancy work (must be > 0): +7.783e-01
+it  4000  L=6.837e-02  mom=4.15e-02 rheo=1.93e-03 solid=5.40e-04 melt=2.39e-02 darcy=4.57e-04 | eta=1.5e+21 phi_max=1.76e-04 |u|max=1.12 mm/yr  [605s]
+        buoyancy work (must be > 0): +7.622e-01
+it  4100  L=7.197e-02  mom=4.30e-02 rheo=2.00e-03 solid=5.85e-04 melt=2.60e-02 darcy=4.19e-04 | eta=1.8e+21 phi_max=1.76e-04 |u|max=1.22 mm/yr  [620s]
+        buoyancy work (must be > 0): +7.590e-01
+it  4200  L=6.691e-02  mom=4.14e-02 rheo=1.98e-03 solid=6.04e-04 melt=2.25e-02 darcy=4.18e-04 | eta=2.1e+21 phi_max=1.77e-04 |u|max=1.05 mm/yr  [635s]
+        buoyancy work (must be > 0): +7.464e-01
+it  4300  L=6.785e-02  mom=3.94e-02 rheo=1.83e-03 solid=5.63e-04 melt=2.56e-02 darcy=4.48e-04 | eta=1.6e+21 phi_max=1.78e-04 |u|max=1.22 mm/yr  [652s]
+        buoyancy work (must be > 0): +8.072e-01
+it  4400  L=6.976e-02  mom=4.04e-02 rheo=1.93e-03 solid=5.23e-04 melt=2.64e-02 darcy=4.27e-04 | eta=1.8e+21 phi_max=1.78e-04 |u|max=1.22 mm/yr  [668s]
+        buoyancy work (must be > 0): +8.325e-01
+it  4500  L=7.120e-02  mom=4.49e-02 rheo=1.98e-03 solid=5.79e-04 melt=2.34e-02 darcy=4.22e-04 | eta=1.9e+21 phi_max=1.78e-04 |u|max=1.21 mm/yr  [683s]
+        buoyancy work (must be > 0): +7.614e-01
+it  4600  L=6.480e-02  mom=4.02e-02 rheo=1.91e-03 solid=5.25e-04 melt=2.17e-02 darcy=4.42e-04 | eta=1.6e+21 phi_max=1.78e-04 |u|max=1.21 mm/yr  [698s]
+        buoyancy work (must be > 0): +7.201e-01
+it  4700  L=6.670e-02  mom=4.03e-02 rheo=1.90e-03 solid=5.72e-04 melt=2.35e-02 darcy=4.33e-04 | eta=1.8e+21 phi_max=1.80e-04 |u|max=1.14 mm/yr  [714s]
+        buoyancy work (must be > 0): +7.524e-01
+it  4800  L=6.680e-02  mom=4.27e-02 rheo=1.90e-03 solid=5.48e-04 melt=2.12e-02 darcy=4.55e-04 | eta=1.5e+21 phi_max=1.75e-04 |u|max=1.17 mm/yr  [729s]
+        buoyancy work (must be > 0): +8.079e-01
+it  4900  L=6.837e-02  mom=4.28e-02 rheo=1.94e-03 solid=5.76e-04 melt=2.26e-02 darcy=4.44e-04 | eta=1.8e+21 phi_max=1.75e-04 |u|max=1.15 mm/yr  [745s]
+        buoyancy work (must be > 0): +7.229e-01
+it  5000  L=6.971e-02  mom=4.14e-02 rheo=1.97e-03 solid=5.64e-04 melt=2.53e-02 darcy=4.39e-04 | eta=1.8e+21 phi_max=1.77e-04 |u|max=1.16 mm/yr  [761s]
+        buoyancy work (must be > 0): +7.412e-01
+saved /Users/ngubernard/Desktop/Ngu/new_article/geothermla/paper_1_cvl_FINAL/runs/params_S.npz  total logged iterations: 51
+saved solution_S.npz

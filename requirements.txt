@@ -1,0 +1,11 @@
+# The model itself needs only numpy: the automatic differentiation in
+# code/autodiff.py is written on top of it, because PyTorch and JAX were not
+# installable in the environment this was developed in.
+numpy>=1.21
+scipy>=1.7          # smoothing and interpolation in the figure code
+matplotlib>=3.5     # all figures
+
+# Fig. 1 only.  Without either, map/run_map.sh falls back to matplotlib and
+# draws the map without shaded relief.
+#   conda install -c conda-forge pygmt    # best: relief, bathymetry, inset
+#   conda install -c conda-forge gmt      # relief only
